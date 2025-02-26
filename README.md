@@ -1,5 +1,4 @@
-# Sillas S. S. Moura - Desenvolvedor
-
+- Desenvolvedor
 
 ## Sobre mim
 
@@ -36,21 +35,15 @@ Raramente me empenhei na realização de cursos (embora não os descarte). Acred
 ### IoT: Sistema de Rastreamento por GPS - 2023
 **Tecnologias:** Rust, C, C++, AWS, Sockets, JavaScript, TypeScript, React.js, MQTT
 
-<img src="imagens/HW.jpeg" alt="Texto 1" width="300">
-
-<img src="imagens/Test_1.png" alt="Texto 2" width="300">
-
-<img src="imagens/Test_0.png" alt="Texto 2" width="200">
-
-<img src="imagens/Test_2.jpeg" alt="Texto 3" width="150">
+<img src="imagens/HW.jpeg" alt="Texto 1" width="300"><img src="imagens/Test_1.png" alt="Texto 2" width="300"><img src="imagens/Test_0.png" alt="Texto 2" width="200"><img src="imagens/Test_2.jpeg" alt="Texto 3" width="150">
 
 ## Projetos Pessoais e links
 - *[LinkedIn](https://www.linkedin.com/in/sillassilveira/)*
 - *[Github](https://github.com/sillas)*
-- [Desk Lamp With Arduino - 2017](#) *[(Youtube)](https://www.youtube.com/watch?v=gr-CEdU2xXM)*
-- [Blender + OpenCV - 2017](#) *[(Youtube)](https://www.youtube.com/watch?v=rvZ0Yy4kTi0)*
-- [Blender + Arduino - 2017](#) *[(Youtube)](https://www.youtube.com/watch?v=6UIN_hI7L8w)*
-- [Intel Galileo Gen 1 + Python - 2015](#) *[(Youtube)](https://www.youtube.com/watch?v=O_nYzcCUpAo)*
+- *[Desk Lamp With Arduino - 2017 (Youtube)](https://www.youtube.com/watch?v=gr-CEdU2xXM)*
+- *[Blender + OpenCV - 2017 (Youtube)](https://www.youtube.com/watch?v=rvZ0Yy4kTi0)*
+- *[Blender + Arduino - 2017 (Youtube)](https://www.youtube.com/watch?v=6UIN_hI7L8w)*
+- *[Intel Galileo Gen 1 + Python - 2015 (Youtube)](https://www.youtube.com/watch?v=O_nYzcCUpAo)*
 ---
 
 📫 Entre em contato:  
