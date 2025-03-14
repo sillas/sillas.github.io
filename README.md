@@ -12,8 +12,6 @@ Iniciei oficialmente minha carreira como desenvolvedor em 2017, atuando no backe
 
 Além disso, realizei projetos como desenvolvedor freelancer em diversas tecnologias (desde IoT até IA), ampliando minha experiência e enfrentando diferentes desafios.
 
-Raramente me empenhei na realização de cursos (embora não os descarte). Acredito que o melhor curso de tecnologia são as documentações oficiais e a prática constante no dia a dia.
-
 ## Experiência Profissional
 
 ### 2024: Desenvolvedor Backend | Poeme
