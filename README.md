@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor de software com foco em backend, mas com conhecimentos em frontend e outras áreas da tecnologia, como IoT e Automação. Trabalho com Python e suas diversas tecnologias há mais de seis anos, atuando desde a integração de sistemas até a criação de aplicações web. 
+Sou um desenvolvedor de software com foco em backend, mas com conhecimentos em frontend e outras áreas da tecnologia, como IoT e Automação. Trabalho com Python e Javascript/Typescript e suas diversas tecnologias há mais de seis anos, e possuo experiência com várias soluções Low-Code, atuando desde a integração de sistemas até a criação de aplicações web complexas. 
 
 Também utilizo a AWS e muitos dos seus serviços diariamente há mais de cinco anos, construindo aplicações serverless ou como auxiliares/extensão de outros sistemas internos das empresas.
 
@@ -18,7 +18,7 @@ Além disso, realizei projetos como desenvolvedor freelancer em diversas tecnolo
 **Tecnologias:** AWS, Whatsapp (API Cloud Oficial da Meta), Chatbot, Python e IA, Cloud Architect.
 
 ### 2019-2025: Desenvolvedor Backend | Mirantes Empreendimentos
-**Tecnologias:** AWS, Python, JavaScript, Rust, TypeScript, Google Appsheet, entre outras.  
+**Tecnologias:** AWS, Python, JavaScript, Rust, TypeScript, Google Appsheet, Zapier, Webflow, entre outras.  
 (Atuação focada em integração de sistemas - Financeiro, engenharia e Marketing)  
 [https://soumirantes.com.br/](https://soumirantes.com.br/)
 
