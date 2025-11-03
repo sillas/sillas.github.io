@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor de software com foco em backend, mas com conhecimentos em frontend e outras áreas da tecnologia, como IoT e Automação. Trabalho com Python e Javascript/Typescript e suas diversas tecnologias há mais de seis anos, e possuo experiência com várias soluções Low-Code, atuando desde a integração de sistemas até a criação de aplicações web complexas. 
+Sou um desenvolvedor de software com foco em backend, mas com conhecimentos em frontend e outras áreas da tecnologia, como IoT e Automação. Trabalho com Python e Javascript/Typescript e suas diversas tecnologias há mais de oito anos, e possuo experiência com várias soluções Low-Code, atuando desde a integração de sistemas até a criação de aplicações web complexas. 
 
 Também utilizo a AWS e muitos dos seus serviços diariamente há mais de cinco anos, construindo aplicações serverless ou como auxiliares/extensão de outros sistemas internos das empresas.
 
@@ -12,9 +12,9 @@ Iniciei oficialmente minha carreira como desenvolvedor em 2017, atuando no backe
 
 Além disso, realizei projetos como desenvolvedor freelancer em diversas tecnologias (desde IoT até IA), ampliando minha experiência e enfrentando diferentes desafios.
 
-## Experiência Profissional
+## Experiência Profissional Mais Relevante
 
-### 2024: Desenvolvedor Backend | Poeme
+### 2024 - 2025: Desenvolvedor Backend | Poeme
 **Tecnologias:** AWS, Whatsapp (API Cloud Oficial da Meta), Chatbot, Python e IA, Cloud Architect.
 
 ### 2019-2025: Desenvolvedor Backend | Mirantes Empreendimentos
@@ -25,6 +25,10 @@ Além disso, realizei projetos como desenvolvedor freelancer em diversas tecnolo
 ### 2018-2019: Desenvolvedor Backend | Rits Tecnologia
 **Tecnologias:** AWS, Laravel (PHP), Redis, Vue.js, etc. 
 [www.rits.com.br](https://www.rits.com.br)
+
+### 2015-2017: Desenvolvedor Fullstack | Freelance
+ - Anauê Traslados: Website + integração com gateway de pagamentos;
+ - AGN - Tecnologia: Diversos projetos realizados, backend + frontend.
 
 ## Outros Projetos
 
